@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%8C%A8+I'm+Omnia+Fathy+%E2%9C%A8;Web+UI+Developer;+Angular+%7C+React+%7C+JavaScript&center=true&width=600&height=60" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%8C%A8+I'm+Omnia+Fathy+%E2%9C%A8;React+Front-End+Developer;+React+%7C+JavaScript+%7C+Next.js&center=true&width=600&height=60" />
 </p>
 
 🎓 Computer Science Graduate (2024)  
-💻 Web UI / Front-End Developer  
+💻 React Front-End Developer  
 
 ---
 
 ## 🛠 Tech Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-🚀 shopping project 
-🛒 exam project  
-📊 portfolio...  
+🚀 React E-commerce Project  
+🛒 React Exam System  
+📊 React Portfolio  
 
 ---
 
